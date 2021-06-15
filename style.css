@@ -1,0 +1,43 @@
+.navbar {
+    background-color: teal;
+    padding-bottom: 40px;
+}
+
+
+
+
+.top {
+    background-color: gainsboro;
+
+}
+
+.title {
+    margin-left: 8%;
+}
+
+#quote {
+    text-align: right;
+}
+
+#choose {
+    margin-left: 4%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom img {
+    width: 275px;
+    height: 200px;
+}
+
+.bottom {
+    background-color: gainsboro;
+}
+
+
+
+
+
+
+
+
